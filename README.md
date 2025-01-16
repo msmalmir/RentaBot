@@ -36,10 +36,10 @@ RentaBot is an interactive chatbot designed to assist users in finding their ide
 Below are examples of a conversation with RentaBot:
 
 Screenshot 1: Starting the conversation
-![Panel Application - Page 1](images/Panel Application_Page_1.PNG)
+![RentaBot Example](images/RentaBot_usecase1.png)
 
 Screenshot 2: Final recommendation
-![Panel Application - Page 2](images/Panel Application_Page_2.PNG)
+![](images/RentaBot_usecase2.png)
 
 ---
 
