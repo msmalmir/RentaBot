@@ -36,10 +36,10 @@ RentaBot is an interactive chatbot designed to assist users in finding their ide
 Below are examples of a conversation with RentaBot:
 
 Screenshot 1: Starting the conversation
-![Panel Application - Page 1](image/Panel Application_Page_1.png)
+![Panel Application - Page 1](images/Panel Application_Page_1.png)
 
 Screenshot 2: Final recommendation
-![Panel Application - Page 2](image/Panel Application_Page_2.png)
+![Panel Application - Page 2](images/Panel Application_Page_2.png)
 
 ---
 
@@ -47,15 +47,15 @@ Screenshot 2: Final recommendation
 
 The project includes a list of available housing options, each with detailed information about:
 
-Unit type (apartment/shared house)
-Number of bedrooms and bathrooms
-Monthly rent
-Rental periods
-Floor level
-Furnishing options
-Amenities
-Pet-friendliness
-Availability date
+- Unit type (apartment/shared house)
+- Number of bedrooms and bathrooms
+- Monthly rent
+- Rental periods
+- Floor level
+- Furnishing options
+- Amenities
+- Pet-friendliness
+- Availability date
 
 ---
 
